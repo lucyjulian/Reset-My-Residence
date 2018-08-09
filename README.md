@@ -6,8 +6,8 @@ local weather conditions at your finger tips; then you need to try our app.
 ## Deployment
 
 Visit our site at one of the following links:
-GitHub link -  https://lucyjulian.github.io/Reset-My-Residence/
-Presentation link - https://docs.google.com/presentation/d/1eFHK6hb4RduibmpUi_m8PCAsAk57tv4eKt872dGxGNo/edit#slide=id.p9
+* GitHub link -  https://lucyjulian.github.io/Reset-My-Residence/
+* Presentation link - https://docs.google.com/presentation/d/1eFHK6hb4RduibmpUi_m8PCAsAk57tv4eKt872dGxGNo/edit#slide=id.p9
 
 ## Navigation
 Please navigate to the application via the links above. Peruse around the app and find your
